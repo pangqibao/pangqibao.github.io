@@ -4,7 +4,8 @@ title: spring boot json返回
 date: 2018-09-19 17:40:00 +0300
 description: spring boot json 返回
 img: software.jpg # Add image post (optional)
-tags: [spring, Software,spring boot] # add tag
+categories: [spring boot,java]
+tags: [spring,java, spring boot] # add tag
 ---
 
 <font color="red">（注：这篇文章不是最好的方式，可以废弃不读，在章节66.spring boot完美使用Fast Json解析JSON数据，提供更完美的方案。）</font>
