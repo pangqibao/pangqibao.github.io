@@ -42,10 +42,10 @@ tags: [spring,java, spring boot] # add tag
 当然不是所有的代码都支持热部署，呃，我也不是很清楚，那些代码修改了可以直接不用重启查看
 特别说明：
 
-	> 比较常用的打包命令	
-	> mvn clean packagespring-boot:repackage 
+	> 比较常用的打包命令
+	> mvn clean packagespring-boot:repackage	
 	> 只有使用下面的maven命令在cmd窗口启动，热加载才能生效，如果直接run运行的application，是不支持热加载的
 	> mvn clean spring-boot:run 
 	
-	参考：http://blog.csdn.net/z69183787/article/details/46520595 (http://blog.csdn.net/z69183787/article/details/46520595)
+参考：http://blog.csdn.net/z69183787/article/details/46520595 (http://blog.csdn.net/z69183787/article/details/46520595)
 	如果使用run 也可以热部署的话，配置vm参数，请查看：http://www.tuicool.com/articles/RvIf2mY (http://www.tuicool.com/articles/RvIf2mY)
