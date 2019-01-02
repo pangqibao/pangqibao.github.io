@@ -2,7 +2,7 @@
 layout: post
 title: spring boot 热部署
 date: 2019-01-02 11:32:00 +0300
-description: spring boot json 返回
+description: spring boot 热部署，coding完项目快速生效
 img: software.jpg # Add image post (optional)
 categories: [spring boot,java]
 tags: [spring,java, spring boot] # add tag
@@ -46,5 +46,6 @@ tags: [spring,java, spring boot] # add tag
 	> mvn clean packagespring-boot:repackage 
 	> 只有使用下面的maven命令在cmd窗口启动，热加载才能生效，如果直接run运行的application，是不支持热加载的
 	> mvn clean spring-boot:run 
-	> 参考：http://blog.csdn.net/z69183787/article/details/46520595(http://blog.csdn.net/z69183787/article/details/46520595)
-	如果使用run 也可以热部署的话，配置vm参数，请查看：http://www.tuicool.com/articles/RvIf2mY(http://www.tuicool.com/articles/RvIf2mY)
+	
+	参考：http://blog.csdn.net/z69183787/article/details/46520595 (http://blog.csdn.net/z69183787/article/details/46520595)
+	如果使用run 也可以热部署的话，配置vm参数，请查看：http://www.tuicool.com/articles/RvIf2mY (http://www.tuicool.com/articles/RvIf2mY)
