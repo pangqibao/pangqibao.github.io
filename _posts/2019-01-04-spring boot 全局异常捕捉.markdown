@@ -2,7 +2,7 @@
 layout: post
 title: spring boot 全局异常捕捉
 date: 2019-01-04 10:15:00 +0300
-description: spring boot 使用别的json解析框架解析json
+description: spring boot 统一异常处理方案
 img: software.jpg # Add image post (optional)
 categories: [spring boot,java]
 tags: [spring,java, spring boot] # add tag
