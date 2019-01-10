@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spring boot datasource
-date: 2019-01-04 10:15:00 +0300
+date: 2019-01-10 11:25:00 +0300
 description: spring boot Á´½ÓÊý¾Ý¿â
 img: software.jpg # Add image post (optional)
 categories: [spring boot,java]
