@@ -7,6 +7,7 @@ img: software.jpg # Add image post (optional)
 categories: [spring boot,java]
 tags: [spring,java, spring boot] # add tag
 ---
+
 任何一个程序都少不了要数据库的操作，而spring boot中链接数据库超级简单。
 
 我们需要在application.properties中进行配置，application.properties路径是src/main/resources下，对于application.properties的更多介绍请自行搜索资料，或者我会在后面介绍，好了不多说，以下只是mysql的配置，其他数据库类似。
